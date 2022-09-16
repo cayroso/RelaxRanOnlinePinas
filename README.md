@@ -13,7 +13,7 @@ MP - when MP goes below the selected value, will use pots in slot W;<br/>
 SP - when SP goes below the selected value, will use pots in slot E;<br/>
 
 Versions
-Free
+- Free
   - only allows auto pots for MP and SP
-VIP
+- VIP
   - all features are enabled
