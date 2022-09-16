@@ -7,7 +7,7 @@ Auto-Pots - when enabled, will use the pots/bread in specific slot. HP = Q, MP =
 Killer - when enabled, executes right click.<br/>
 Lurer - when enabled, executes left click,<br/>
 
-Dropdowns
-HP - when HP goes below the selected value, will use pots in slot Q;
-MP - when MP goes below the selected value, will use pots in slot W;
-SP - when SP goes below the selected value, will use pots in slot E;
+Dropdowns<br/>
+HP - when HP goes below the selected value, will use pots in slot Q;<br/>
+MP - when MP goes below the selected value, will use pots in slot W;<br/>
+SP - when SP goes below the selected value, will use pots in slot E;<br/>
