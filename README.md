@@ -12,7 +12,7 @@ This repo contains the instructions on how to use the tool; auto pots, auto righ
   - when enabled, executes left click.
 
 <b>Dropdowns</b>
-- HP
+- <span style="color:red">HP</span>
   - when HP goes below the selected value, will use pots in slot Q.
 - MP
   - when MP goes below the selected value, will use pots in slot W.
