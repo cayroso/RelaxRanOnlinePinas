@@ -21,6 +21,6 @@ This repo contains the instructions on how to use the tool; auto pots, auto righ
 
 <b>Versions</b>
 - Free
-  - only allows auto pots for MP and SP
+  - only allows auto pots for MP and SP.
 - VIP
-  - all features are enabled
+  - All features are enabled.
