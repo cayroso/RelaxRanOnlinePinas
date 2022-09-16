@@ -1,5 +1,7 @@
 # RelaxRanOnlinePinas
-This repo contains the instructions on how to use the tool; auto pots, auto right-click, and auto left-click.
+This repo contains downloadable app and instructions on how to use it.
+
+[File Name](url).
 
 <b>Buttons</b>
 - Start/Stop 
@@ -12,7 +14,7 @@ This repo contains the instructions on how to use the tool; auto pots, auto righ
   - when enabled, executes left click.
 
 <b>Dropdowns</b>
-- <span style="color:red">HP</span>
+- HP
   - when HP goes below the selected value, will use pots in slot Q.
 - MP
   - when MP goes below the selected value, will use pots in slot W.
