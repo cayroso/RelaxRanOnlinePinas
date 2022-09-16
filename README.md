@@ -1,7 +1,7 @@
 # RelaxRanOnlinePinas
 This repo contains downloadable app and instructions on how to use it.
 
-[Download here](RelaxRanOnlinePinas.exe "download").
+([RelaxRanOnlinePinas.exe](https://github.com/cayroso/RelaxRanOnlinePinas/raw/main/RelaxRanOnlinePinas.exe)).
 
 <b>Buttons</b>
 - Start/Stop 
