@@ -2,10 +2,14 @@
 This repo contains the instructions on how to use the tool; auto pots, auto right-click, and auto left-click.
 
 Buttons<br/>
-- Start/Stop - will start/stop the application<br/>
-- Auto-Pots - when enabled, will use the pots/bread in specific slot. HP = Q, MP = W, SP = E<br/>
-- Killer - when enabled, executes right click.<br/>
-- Lurer - when enabled, executes left click,<br/>
+- Start/Stop 
+- will start/stop the application<br/>
+- Auto-Pots 
+- when enabled, will use the pots/bread in specific slot. HP = Q, MP = W, SP = E<br/>
+- Killer 
+- when enabled, executes right click.<br/>
+- Lurer 
+- when enabled, executes left click,<br/>
 
 Dropdowns<br/>
 - HP
