@@ -11,7 +11,7 @@ This repo contains the instructions on how to use the tool; auto pots, auto righ
 - Lurer 
   - when enabled, executes left click,<br/>
 
-Dropdowns<br/>
+<b>Dropdowns</b>
 - HP
   - when HP goes below the selected value, will use pots in slot Q;<br/>
 - MP
@@ -19,7 +19,7 @@ Dropdowns<br/>
 - SP
   - when SP goes below the selected value, will use pots in slot E;<br/>
 
-Versions
+<b>Versions</b>
 - Free
   - only allows auto pots for MP and SP
 - VIP
