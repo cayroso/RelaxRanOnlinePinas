@@ -1,6 +1,15 @@
 # RelaxRanOnlinePinas
 This repo contains downloadable app and instructions on how to use it.
 
+<hr/>
+<b>DISCLAIMER</b><br/>
+I am only hosting this tool to my github repo.<br/>
+I am <b>NOT the developer</b> who created this.<br/>
+For any bugs/issues you may encountered, I will not be responsible.<br/>
+But I will relay to the original developer any issues that will be reported in this repo.<br/>
+Use this tool at your own risk.<br/>
+<hr/>
+
 Download [RelaxRanOnlinePinas](https://github.com/cayroso/RelaxRanOnlinePinas/releases).
 
 <b>Buttons</b>
