@@ -11,3 +11,9 @@ Dropdowns<br/>
 HP - when HP goes below the selected value, will use pots in slot Q;<br/>
 MP - when MP goes below the selected value, will use pots in slot W;<br/>
 SP - when SP goes below the selected value, will use pots in slot E;<br/>
+
+Versions
+Free
+  - only allows auto pots for MP and SP
+VIP
+  - all features are enabled
